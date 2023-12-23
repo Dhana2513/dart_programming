@@ -1,7 +1,13 @@
 23 Dec - 30 Dec:
 
 1. Dart Programming. 'Crash course of dart', 'Dart Programming'.
-2. if_else
+2. if_else - 10
 3. loop - while, for, do while.
 4. String
-5. oops
+5. Functions
+6. Array
+7. Break Continue.
+
+Next Week:
+Oops.
+Flutter
