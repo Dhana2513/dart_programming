@@ -1,17 +1,7 @@
-22 sept => array, functions
+23 Dec - 30 Dec:
 
-23 sept => break_continue, string, type_casting
-
-24 sept => classes_objects, constructor
-
-25 sept => revision.
-
-26 sept => polymorphism, interfaces
-
-27 sept => encapsulation, modifiers, enums, global_variables, local_variables, static_variables
-
-28 sept => collections, array_list, hash_map, linked_list
-
-29 sept => static_const, exception_handling, threads
-
-30 sept => revision.
+1. Dart Programming. 'Crash course of dart', 'Dart Programming'.
+2. if_else
+3. loop - while, for, do while.
+4. String
+5. oops
