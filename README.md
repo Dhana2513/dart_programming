@@ -10,3 +10,15 @@
 - [Loops](https://dart.dev/language/loops)
 - [if-else & switch](https://dart.dev/language/branches)
 
+#### Functions
+-  [Functions](https://dart.dev/language/functions)
+- [Optional Parameters](https://www.educative.io/answers/what-are-dart-optional-parameters)
+- [Named & Required Parameters](https://www.dhiwise.com/post/the-ultimate-guide-to-dart-named-parameters)
+
+#### Exception Handling
+- [Try-Catch](https://dart.dev/language/error-handling)
+
+#### Collections
+- [List](https://www.geeksforgeeks.org/dart-programming-list/)
+- [Set](https://www.geeksforgeeks.org/dart-sets/)
+- [Map](https://www.geeksforgeeks.org/dart-programming-map/)
