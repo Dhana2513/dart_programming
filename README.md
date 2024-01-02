@@ -15,10 +15,32 @@
 - [Optional Parameters](https://www.educative.io/answers/what-are-dart-optional-parameters)
 - [Named & Required Parameters](https://www.dhiwise.com/post/the-ultimate-guide-to-dart-named-parameters)
 
-#### Exception Handling
+#### Exception Hangling
 - [Try-Catch](https://dart.dev/language/error-handling)
 
-#### Collections
+#### Collenctions
 - [List](https://www.geeksforgeeks.org/dart-programming-list/)
 - [Set](https://www.geeksforgeeks.org/dart-sets/)
 - [Map](https://www.geeksforgeeks.org/dart-programming-map/)
+
+
+/**************************************************************************/
+### Next Week
+
+#### Classes
+- Constructor
+- Factory Method
+- Methods & Variables
+- Mixins
+
+#### Inheritance
+- Single Level
+- Multi-Level
+
+#### Interfaces & Abstact classess
+
+#### Enums
+
+#### Async
+
+#### Typedefs
